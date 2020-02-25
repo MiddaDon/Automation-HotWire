@@ -134,4 +134,30 @@ return strDate;
 		
 		driver.findElement(By.xpath("//button[text()='Find a deal']")).click();	
 	}
+	
+	
+	@Test(priority=9)
+	public void end()
+	{
+		
+		driver.quit();	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
