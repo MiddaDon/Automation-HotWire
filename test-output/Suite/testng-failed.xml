@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Automate_Hotwire.Automate_Hotwire.AppTest">
+        <methods>
+          <include name="findingDeal"/>
+          <include name="selectDate"/>
+          <include name="selectTo"/>
+          <include name="selectFrom"/>
+          <include name="selectZone"/>
+          <include name="launchBrowser"/>
+          <include name="selectOptions"/>
+        </methods>
+      </class> <!-- Automate_Hotwire.Automate_Hotwire.AppTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

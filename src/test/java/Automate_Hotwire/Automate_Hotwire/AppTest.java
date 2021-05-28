@@ -52,7 +52,7 @@ return strDate;
 	public void launchBrowser()
 	{
 		
-		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\Resources\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\Resources\\Chrome\\chromedriver.exe");
 		driver=new ChromeDriver();
 		
 		
