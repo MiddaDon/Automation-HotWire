@@ -140,7 +140,7 @@ return strDate;
 	public void print()
 	{
 		
-		System.out.println("new");	
+		System.out.println("new nessage");	
 	}
 	
 	
