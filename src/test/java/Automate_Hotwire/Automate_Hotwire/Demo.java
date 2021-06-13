@@ -42,7 +42,7 @@ public class Demo {
 	
 	@Test(priority=2)
 	public void test1() {
-		System.out.println("Test 1");
+		System.out.println("Testing 1");
 	}
 	@Test(priority=3)
 	public void test2() {
