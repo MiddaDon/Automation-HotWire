@@ -46,7 +46,7 @@ public class Demo {
 	}
 	@Test(priority=3)
 	public void test2() {
-		System.out.println("Test 2");
+		System.out.println("Testing 2");
 	}
 	
 	@AfterMethod
