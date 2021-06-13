@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Automate_Hotwire.Automate_Hotwire.AppTest"/>
+      <class name="Automate_Hotwire.Automate_Hotwire.Demo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
