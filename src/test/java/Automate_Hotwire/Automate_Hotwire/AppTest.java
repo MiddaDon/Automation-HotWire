@@ -137,6 +137,15 @@ return strDate;
 	
 	
 	@Test(priority=9)
+	public void print()
+	{
+		
+		System.out.println("new");	
+	}
+	
+	
+	
+	@Test(priority=10)
 	public void end()
 	{
 		
